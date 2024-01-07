@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Preview](https://imgur.com/a/0LFh4PA)
+![Preview](https://firebasestorage.googleapis.com/v0/b/disney-plus-hotstar-clon-13914.appspot.com/o/images%2FScreenshot%202024-01-07%20132940.png?alt=media&token=f8df571e-c724-4a1d-ad6c-6e9d1f06209f)
 
 ### Links
 
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://jatinvashisht-frontendmentorchallenge.netlify.app/)
 
 ## My process
 
@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jatin Vashisht](https://jatin-vashisht-portfolio.netlify.app/)
+- Frontend Mentor - [@jatin-vashisht](https://www.frontendmentor.io/profile/jatin-vashisht)
+- LinkedIn - [Jatin Vashisht](https://linkedin.com/in/jatin-vashisht)
 
